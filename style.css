@@ -1,5 +1,5 @@
  .purple-color{
-    color: 8845f4;
+    color: #8845f4;
   }
   body{
       font-family: sans-serif;
@@ -12,7 +12,7 @@
     float: left;
     }
  .side.img{
- width: 50%;
+ width: 100%;
  padding-left: 25%;
  }
  
