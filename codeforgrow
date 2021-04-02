@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <!-- =====BOX ICONS===== -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+<title>Portfolio website</title>
+  </head>
+  <body>
+    <!--===== HEADER =====-->
+    <header class="1-header">
+      <nav class="nav bd-grid">
+        <div>
+          <a href="#" class="nav__logo">Codeforgrow</a>
+        </div>
+        
+        <div class="nav__menu" id="nav-menu">
+          <ul class="nav__list">
+            <li class="nav__item"><a href="#" class="nav__link active">Home</a></li>
+            <li class="nav__item"><a href="#" class="nav__link">About</a></li>
+            <li class="nav__item"><a href="#" class="nav__link">Skills</a></li>
+            <li class="nav__item"><a href="#" class="nav__link">Work</a></li>
+            <li class="nav__item"><a href="#" class="nav__link">Contact</a></li>
+          </ul>
+        </div>
+      
+        
+        <div class="nav__toggle" id="nav-toggle">
+          <i class='bx bx-menu'></i>
+        </div>
+      </nav>
+    </header>
+    <main class="1-main">
+    </main>
+    
+    
+  <img src="codeforgrow.jpg" width: 12px; height: 12px;>
+  <div class="text">
+  <p>Page is under construction!!</p>
+    <h1>Coming soon!!</h1>
+   </div>
+    <!--==== SCROLL REVEAL ==-->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <!--==== MAIN JS ==-->
+    <script src="Main.js"></script>
+  </body>
+</html>
